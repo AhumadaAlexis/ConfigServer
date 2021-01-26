@@ -7,4 +7,4 @@ spring:
       authentication-database: admin
 
 controller:
-  uri: /api/v1/bancos/estado/{state} 
+  uri: /v1/bancos/zipcode/{postalcode} 
